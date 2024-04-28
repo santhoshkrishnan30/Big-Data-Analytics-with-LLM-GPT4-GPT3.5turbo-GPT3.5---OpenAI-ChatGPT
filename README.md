@@ -4,6 +4,11 @@
 
 This Python project demonstrates how to enhance data manipulation and analysis using artificial intelligence with the pandas library. By integrating AI capabilities, you can supercharge your data tasks and gain deeper insights.
 
+![image](https://github.com/santhoshkrishnan30/Big-Data-Analytics-with-LLM-GPT4-GPT3.5turbo-GPT3.5---OpenAI-ChatGPT/assets/145760700/361bc1bb-e5d8-48a1-902e-b8f8dbd7eaf6)
+
+
+
+
 ## Table of Contents
 
 1. [System Overview](#system-overview)
