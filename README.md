@@ -30,9 +30,10 @@ The project leverages Python and pandas to create a synthetic dataset, simulatin
    git clone https://github.com/yourusername/pandas-ai-supercharge.git
 
 2. Install required Python packages.
-```python
-pip install pandas numpy pandas-ai
-```
+   ```bash
+   pip install pandas numpy pandas-ai
+
+
 3. Navigate to the project directory.
    ```bash
    cd pandas-ai-supercharge
@@ -45,9 +46,9 @@ pip install pandas numpy pandas-ai
 
 The project showcases how to use the pandas-ai library, which includes features like generative AI for data tasks. It demonstrates tasks such as:
 
-• Formatting data with A1-driven insights.
-• Extracting meaningful information from the dataset.
-• Visualizing A1-enhanced analytics results.
+- Formatting data with A1-driven insights.
+- Extracting meaningful information from the dataset.
+- Visualizing A1-enhanced analytics results.
 
 ## Contributing
 
